@@ -1,0 +1,24 @@
+{
+  "name": "gitmark",
+  "version": "1.0.0",
+  "description": "A simple tool to bookmark and write notes about github repo, users and projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KW",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GHkrishna/gitmark.git"
+  },
+  "keywords": [
+    "project",
+    "ts",
+    "bookmark"
+  ],
+  "bugs": {
+    "url": "https://github.com/GHkrishna/gitmark/issues"
+  },
+  "homepage": "https://github.com/GHkrishna/gitmark#readme"
+}
